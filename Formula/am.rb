@@ -2,9 +2,9 @@
 class Am < Formula
   desc "Per-project AI agent gateway switcher"
   homepage "https://github.com/tom19830924/AgentMux"
-  url "https://github.com/tom19830924/AgentMux/releases/download/v0.1.1/am-0.1.1-macos-universal.tar.gz"
-  sha256 "13693011b80c3125d4d52ae8ff4559d1718ee9c09fc7bfbe513b92f0aeb78a92"
-  version "0.1.1"
+  url "https://github.com/tom19830924/AgentMux/releases/download/v0.1.2/am-0.1.2-macos-universal.tar.gz"
+  sha256 "95fd5d7639620fb5bc54a04f0899fba9a59cc05f1774aa7224ca478331cd038f"
+  version "0.1.2"
 
   depends_on macos: :ventura
 
