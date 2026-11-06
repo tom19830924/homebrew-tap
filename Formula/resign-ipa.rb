@@ -2,9 +2,9 @@
 class ResignIpa < Formula
   desc "Re-sign iOS IPA archives with your certificate and provisioning profiles"
   homepage "https://github.com/tom19830924/SideLoading"
-  url "https://github.com/tom19830924/SideLoading/releases/download/v0.3.1/resign-ipa-0.3.1-macos-arm64.tar.gz"
-  sha256 "ab214a27deb692f86293b6a559a327778830447cf3761d6e43f1262071ce8f88"
-  version "0.3.1"
+  url "https://github.com/tom19830924/SideLoading/releases/download/v0.3.2/resign-ipa-0.3.2-macos-arm64.tar.gz"
+  sha256 "ea713e590d7bcb334152c552b3872e69d2a71faf0ba24c08781e7f47f13ee280"
+  version "0.3.2"
   license "MIT"
 
   depends_on arch: :arm64
